@@ -1,4 +1,11 @@
 ## Hi there 👋
+Hi, I'm Rutuj 👋
+
+• Building AI & healthcare products  
+• Founder – OncoAI  
+• Interests: AI, ML, Quant Finance, Startups  
+
+📫 Reach me: rutujnarke@gmail.com
 
 <!--
 **RUTUJ2817/RUTUJ2817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
