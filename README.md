@@ -2,7 +2,7 @@
 Hi, I'm Rutuj 👋
 
 • Building AI & healthcare products  
-• Founder – OncoAI  
+• Founder – OncoAI (Top 1000 Global Semifinalist in Amazon AWS 10,000 AIdeas Global Competition)
 • Interests: AI, ML, Quant Finance, Startups  
 
 📫 Reach me: rutujnarke@gmail.com
